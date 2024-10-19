@@ -2,7 +2,7 @@
 #### Software Development
 a computer engineering student
 
-Skills: C / C++ / C# / HTML / CSS / PHP
+Skills: C / C++ / C# / HTML / CSS / PHP / Python / Matlab / SQL
 
 - 🔭 I’m currently working on online manga platform 
 
